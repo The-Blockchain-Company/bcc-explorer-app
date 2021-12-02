@@ -1,0 +1,9 @@
+{
+  bcc {
+    supply {
+      circulating
+      max
+      total
+    }
+  }
+}

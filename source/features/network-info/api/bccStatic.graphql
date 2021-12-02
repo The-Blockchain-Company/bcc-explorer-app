@@ -1,0 +1,13 @@
+query bccStatic {
+  genesis {
+    cole {
+      protocolConsts {
+        k
+      }
+    }
+    sophie {
+      epochLength
+      systemStart
+    }
+  }
+}

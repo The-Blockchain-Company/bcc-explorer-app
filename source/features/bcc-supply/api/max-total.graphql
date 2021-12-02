@@ -1,0 +1,8 @@
+{
+  bcc {
+    supply {
+      max
+      total
+    }
+  }
+}

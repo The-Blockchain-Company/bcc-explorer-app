@@ -1,0 +1,7 @@
+{
+  bcc {
+    supply {
+      circulating
+    }
+  }
+}

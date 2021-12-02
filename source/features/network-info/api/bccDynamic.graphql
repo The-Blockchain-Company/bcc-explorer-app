@@ -1,0 +1,14 @@
+query bccDynamic {
+  bcc {
+    tip {
+      number
+      slotInEpoch
+      slotNo
+      forgedAt
+      protocolVersion
+    }
+    currentEpoch {
+      number
+    }
+  }
+}
