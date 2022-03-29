@@ -2,7 +2,7 @@
   "name": "bcc-explorer-app",
   "version": "1.6.0",
   "description": "Bcc Explorer App",
-  "author": "Klarity Team @ Input Output HK",
+  "author": "The-Blockchain-Company",
   "license": "Apache-2.0",
   "scripts": {
     "dev": "yarn generate:graphql-typings && next dev source -p 4000",

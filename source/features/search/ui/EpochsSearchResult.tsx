@@ -108,7 +108,7 @@ const EpochsSearchResult = () => {
           title={translate('block.blocks')}
           totalItems={parseInt(epochSearchResult?.blocksCount, 10)}
         />
-        {environment.BCC.ERA === BccEra.SARAH ? (
+        {environment.BCC.ERA === BccEra.SOPHIE ? (
           <div className={styles.stakeDistribution}>
             <StakeDistribution
               title={translate('stakeDistribution.distribution')}

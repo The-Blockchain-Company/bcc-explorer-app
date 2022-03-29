@@ -7,8 +7,8 @@ A React app with GraphQL client interfacing with [Bcc GraphQL](https://github.co
 
 ### Environment Variables
 See [environment](source/environment.ts) for defaults.
-- `GODX_ERA`
-- `GODX_NETWORK`
+- `BCC_ERA`
+- `BCC_NETWORK`
 - `GRAPHQL_API_PROTOCOL`
 - `GRAPHQL_API_HOST`
 - `GRAPHQL_API_PORT`

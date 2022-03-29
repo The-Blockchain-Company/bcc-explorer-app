@@ -5,7 +5,7 @@ const isNavigatorDefined = typeof navigator !== 'undefined';
 
 export const environment = {
   BCC: {
-    ERA: (process.env.GODX_ERA as BccEra) || BccEra.ABRAHAM,
+    ERA: (process.env.BCC_ERA as BccEra) || BccEra.COLE,
     GRAPHQL: {
       HTTP_URL: `${process.env.GRAPHQL_API_PROTOCOL || 'http'}://${
         process.env.GRAPHQL_API_HOST ||
@@ -15,7 +15,7 @@ export const environment = {
       }`,
     },
     NETWORK:
-      (process.env.GODX_NETWORK as BccNetwork) || BccNetwork.MAINNET,
+      (process.env.BCC_NETWORK as BccNetwork) || BccNetwork.MAINNET,
   },
   DEBUG: process.env.DEBUG,
   // https://support.google.com/analytics/answer/7372977?hl=en

@@ -201,7 +201,7 @@ const transactionMA: ITransactionDetails = {
           quantity: '2000',
         },
         {
-          assetName: 'ATGODXcoin',
+          assetName: 'ATBCCcoin',
           policyId: '34250edd1e9836f5378702fbf9416b709bc140e04f668cc355208518',
           quantity: '9900',
         },
@@ -244,7 +244,7 @@ const transactionMA: ITransactionDetails = {
       index: 0,
       tokens: [
         {
-          assetName: 'ATGODXcoin',
+          assetName: 'ATBCCcoin',
           policyId: '34250edd1e9836f5378702fbf9416b709bc140e04f668cc355208518',
           quantity: '10',
         },
@@ -267,7 +267,7 @@ const transactionMA: ITransactionDetails = {
           quantity: '490',
         },
         {
-          assetName: 'ATGODXcoin',
+          assetName: 'ATBCCcoin',
           policyId: '34250edd1e9836f5378702fbf9416b709bc140e04f668cc355208518',
           quantity: '9890',
         },

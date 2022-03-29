@@ -37,7 +37,7 @@ export const Header = observer((props: IHeaderProps) => {
       </div>
     ) : null;
   const stakePoolLink =
-    environment.BCC.ERA === BccEra.SARAH ? (
+    environment.BCC.ERA === BccEra.SOPHIE ? (
       <LocalizedLink href="/stake-pools">
         <span className={stakePoolsClassName}>Stake Pools</span>
       </LocalizedLink>

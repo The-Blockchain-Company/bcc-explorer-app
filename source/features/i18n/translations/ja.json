@@ -6,7 +6,7 @@
     "summaryBalanceLabel": "最終残高",
     "summaryTransactionsLabel": "トランザクション",
     "totalWithdrawn": "全額引き出し",
-    "bccBalance": "GODX残高",
+    "bccBalance": "BCC残高",
     "tokensBalance": "トークン残高",
     "noTokensAvailable": "このアドレスにはトークンがありません"
   },

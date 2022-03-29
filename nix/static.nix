@@ -13,8 +13,8 @@ stdenv.mkDerivation {
   name = "static-export";
   inherit src;
   buildInputs = [ yarn nodejs ];
-  GODX_ERA = bccEra;
-  GODX_NETWORK = bccNetwork;
+  BCC_ERA = bccEra;
+  BCC_NETWORK = bccNetwork;
   GRAPHQL_API_PROTOCOL = graphqlApiProtocol;
   GRAPHQL_API_HOST = graphqlApiHost;
   GRAPHQL_API_PORT = graphqlApiPort;

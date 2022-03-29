@@ -20,6 +20,6 @@ export enum BccNetwork {
 }
 
 export enum BccEra {
-  ABRAHAM = 'cole',
-  SARAH = 'sophie',
+  COLE = 'cole',
+  SOPHIE = 'sophie',
 }

@@ -1,7 +1,7 @@
 const deploy = require('./index');
 
-process.env.GODX_ERA = 'cole';
-process.env.GODX_NETWORK = 'mainnet';
+process.env.BCC_ERA = 'cole';
+process.env.BCC_NETWORK = 'mainnet';
 process.env.GRAPHQL_API_PROTOCOL = 'https';
 process.env.GRAPHQL_API_HOST = 'a-bcc-graphql-deployment.com';
 process.env.GRAPHQL_API_PORT = '443';
