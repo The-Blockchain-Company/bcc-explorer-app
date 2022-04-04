@@ -39,16 +39,16 @@ export const Footer = (props: IFooterProps) => {
               <p className={styles.tbcoText}>{translate('footer.tbco')}</p>
             </div>
             <div className={styles.socialIcons}>
-              <a href="https://twitter.com/inputoutputHK">
+              <a href="https://twitter.com/blockchaincoio">
                 <img src={twitterIcon} className={styles.twitterIcon} />
               </a>
-              <a href="https://www.facebook.com/tbco.io/">
+              <a href="https://www.facebook.com/theblockchainco/">
                 <img src={facebookIcon} className={styles.facebookIcon} />
               </a>
               <a href="https://www.youtube.com/channel/UCBJ0p9aCW-W82TwNM-z3V2w">
                 <img src={youtubeIcon} className={styles.youtubeIcon} />
               </a>
-              <a href="https://tbco.io/en/blog">
+              <a href="https://blockchain-company.io">
                 <img src={newsletterIcon} className={styles.newsletterIcon} />
               </a>
             </div>
